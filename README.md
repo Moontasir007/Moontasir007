@@ -1,5 +1,11 @@
 <h1 align="center">Hi, I'm Moontasir Mamun</h1>
-<h3 align="center">I am a recent Computer Engineering graduate with a solid software development and programming foundation. I am skilled in Python, Java, and C++, and have hands-on experience in building and optimizing applications. I have developed strong teamwork and problem-solving abilities through academic projects and internships. I am eager to contribute and grow in a software engineering role, focusing on delivering quality software solutions and learning new technologies.</h3>
+<h3 align="center">Motivated and detail-oriented Computer Science graduate with a solid foundation in Software Development
+Life Cycle (SDLC) and Agile methodologies. Skilled in manual testing, test case design, and debugging, with
+a strong understanding of programming languages like Java, Python, and SQL. Experienced in delivering
+high-quality software solutions through academic projects involving functional testing and database
+management. Passionate about leveraging analytical skills and a collaborative mindset to ensure software
+reliability and user satisfaction.
+</h3>
 
 - 📫 How to reach me **moontasir.csecu@gmail.com**
 
