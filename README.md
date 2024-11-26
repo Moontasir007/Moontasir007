@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Moontasir Mamun</h1>
-<h3 align="center">I am a recent Computer Engineering graduate with a solid foundation in software development and programming. I am skilled in Python, Java, and C++, and have hands-on experience in building and optimizing applications. Through academic projects and internships, I have developed strong teamwork and problem-solving abilities. I am eager to contribute and grow in a software engineering role, focusing on delivering quality software solutions and learning new technologies.</h3>
+<h1 align="center">Hi, I'm Moontasir Mamun</h1>
+<h3 align="center">I am a recent Computer Engineering graduate with a solid software development and programming foundation. I am skilled in Python, Java, and C++, and have hands-on experience in building and optimizing applications. I have developed strong teamwork and problem-solving abilities through academic projects and internships. I am eager to contribute and grow in a software engineering role, focusing on delivering quality software solutions and learning new technologies.</h3>
 
 - 📫 How to reach me **moontasir.csecu@gmail.com**
 
